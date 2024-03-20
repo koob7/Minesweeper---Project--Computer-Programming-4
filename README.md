@@ -1,1 +1,2 @@
-# main
+
+Project PK4 is a graphical remake of the game Minesweeper. The main objective was to utilize object-oriented techniques and create a graphical interface. In the application, an algorithm allowing for random distribution of mines was used. The application enables collecting the best results for logged-in players. In the game menu, there is an option to change the size of the board or the number of deployed mines.
